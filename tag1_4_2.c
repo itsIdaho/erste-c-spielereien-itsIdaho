@@ -7,6 +7,6 @@ int main()
 	{
 		printf("Counter: %i\n", countDownCounter); countDownCounter--;
 	}
-	printf("Prepare for Ladning!");
+	printf("Takeoff!");
 	return 0;
 }
